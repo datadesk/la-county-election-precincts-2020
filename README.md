@@ -1,4 +1,4 @@
-# la-county-election-precincts-2018
+# la-county-election-precincts-2020
 
 Final election precincts used by the Los Angeles County Registrar-Recorder/County Clerk in the 2020 general elections
 
